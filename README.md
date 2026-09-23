@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Luan 👋</h1>
 
 <p align="center">
-  <b>Computer Engineering Student @ UFRB</b> | <b>Information Security @ UNIFACS</b>
+  <b>Computer Engineering Student @ UFRB</b> | <b>Graduated in Information Security @ UNIFACS</b>
 </p>
 
 <p align="center">
@@ -17,10 +17,10 @@
 
 ### 🚀 About Me
 
-* 🎓 Currently pursuing a degree in **Computer Engineering** at **UFRB** (*Universidade Federal do Recôncavo da Bahia*).
-* 🔐 Specialized in **Information Security** through postgraduate studies at **UNIFACS**.
-* 💻 **Full Stack Web Developer** driven by a passion for technology, software architecture, and cybersecurity.
-* 🧠 Self-taught problem solver dedicated to building robust software solutions that help people and businesses.
+* 🎓 Currently pursuing my second degree in **Computer Engineering** at **UFRB** (*Universidade Federal do Recôncavo da Bahia*).
+* 🔐 Graduated in **Information Security** from **UNIFACS**.
+* 💻 **Full Stack Web Developer** passionate about technology, software architecture, and cybersecurity.
+* 🧠 Self-taught problem solver dedicated to building robust software solutions.
 
 ---
 
@@ -49,6 +49,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luansmelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Luan's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luansmelo&layout=compact&theme=dracula&hide=html,css" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=luansmelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Luan's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luansmelo&layout=compact&langs_count=7&theme=dracula&hide=html,css" alt="Top Languages" />
 </p>
